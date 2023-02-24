@@ -1,2 +1,2 @@
 # Camera-Lidar-Projection
-Tutorial for how to project Lidar pointcloud on Aamera frame using KITTI dataset.
+Tutorial for how to project Lidar pointcloud on Camera frame using KITTI dataset.
